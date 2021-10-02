@@ -2,8 +2,17 @@ body{background-color: #FFF5FD;}
 h1{color: #BF1363;}
 hr{
   border-style: dotted none none;
-  width: 100%;
-  border-width: 2px;
-  border-color: #AC66CC;
+  width: 10%;
+  border-width: 5px;
+  border-color: #3D2C8D;
 }
-a{color: #EBA83A;}
+p{color: #EBA83A;}
+a{color: #90AACB;}
+h2{color: #BF1363;}
+th{color: #7027A0}
+label{color: #6E85B2;}
+a:hover{color: orangered;}
+/****************************class selectors***************************/
+.insti{color: #8236CB;}
+.institute{color: #ECAC5D;}
+.lab{color: #6E85B2;}
