@@ -1,2 +1,2 @@
 # Web-Dev-Practice
-I am currently getting started with web developemnt. I will be sharing my progress here.
+I am getting started with front-end web developemnt. I will be sharing my progress here.
